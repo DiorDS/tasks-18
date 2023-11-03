@@ -13,4 +13,3 @@ for x in data:
         f = False
 
 print(s)
-

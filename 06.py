@@ -7,4 +7,3 @@ for x in data:
         break
 
 print(s)
-
